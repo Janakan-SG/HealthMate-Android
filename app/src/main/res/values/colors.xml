@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <resources>
+    <color name="healthmate_green">#10B981</color>
+    <color name="healthmate_dark_green">#08785C</color>
+    <color name="healthmate_background">#F6F8FD</color>
+    <color name="healthmate_text">#1D2939</color>
+    <color name="healthmate_muted">#667085</color>
+  </resources>
